@@ -5,7 +5,7 @@
 ## 🚀 About Me
 I'm a full stack software developer with a passion for green tech, tech for good, and problem solving to help people and the world as much as possible through the power of software and technology. I am a recent bootcamp grduate, having thoroughly enjoyed and successfully completed the software engineering cohort at Coding Temple.
 ## 🛠 Skills
-Python, JavaScript, Flask, React, Node, HTML, CSS, Regex, SQL, PostgreSQL
+Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-peck-b8386837/)
