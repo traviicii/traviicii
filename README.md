@@ -24,7 +24,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, Regex, SQL, PostgreSQL
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on www.myguest.beauty
 
-🧠 I'm currently learning... typescript, Redux, data science
+🧠 I'm currently learning... typescript, Redux, data visualization
 
 ⚡️ Fun fact... I'm also a professional hairstylist with over 15 years of experience in the industry
 
