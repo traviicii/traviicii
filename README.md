@@ -21,7 +21,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 [![HTML](https://img.shields.io/badge/Certification-HTML-blue)](https://www.credly.com/badges/88bbd809-3190-411b-9ae3-89a173ca4768/public_url)
 [![CSS](https://img.shields.io/badge/Certification-CSS-blue)](https://www.credly.com/badges/ee817d08-7768-4081-954b-c222eba64926/public_url)
 [![SQL](https://img.shields.io/badge/Certification-SQL-yellow)](https://www.credly.com/badges/bea9e926-cb84-4bba-ba04-ab4fe61651cb/public_url)
-## Other Common Github Profile Sections
+## More
 👩‍💻 I'm currently working on www.myguest.beauty
 
 🧠 I'm currently learning... typescript, redux, data visualization
