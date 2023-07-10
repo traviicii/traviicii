@@ -24,7 +24,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 ## More
 👩‍💻 I'm currently working on www.myguest.beauty
 
-🧠 I'm currently learning... typescript, redux, data visualization
+🧠 I'm currently learning... PixiJS, Typescript
 
 ⚡️ Fun fact... I'm also a professional hairstylist with over 15 years of experience in the industry
 
