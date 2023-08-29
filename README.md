@@ -26,7 +26,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 
 🧠 I'm currently learning... Cybersecurity
 
-⚡️ Fun fact... I'm also a professional hairstylist with over 15 years of experience in the industry
+⚡️ Fun fact... I'm also a professional hairstylist with over 15 years of experience
 
 💬 Ask me about... How hairstyling relates to software engineering!
 
