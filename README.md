@@ -9,7 +9,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-peck-b8386837/)
-[![Portfolio] (https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)](https://travispeck.dev/)
+[![Portfolio](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge)](https://travispeck.dev/)
 
 
 ## Badges
