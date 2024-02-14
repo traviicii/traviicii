@@ -27,7 +27,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL, TypeScript
 ## More
 👩‍💻 I'm currently working as an Associate Instructor at Coding Temple!
 
-🧠 I'm currently learning... TypeScript and HTML Canvas
+🧠 I'm currently learning... HTML Canvas
 
 ⚡️ Fun fact... I'm also a professional hairstylist and educator with over 15 years of experience
 
