@@ -3,9 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a full stack software developer with a passion for green tech, tech for good, and problem solving to help people and the world as much as possible through the power of software and technology. I am a recent bootcamp graduate, having thoroughly enjoyed and successfully completed the software engineering course at Coding Temple.
+I'm a full stack software developer with a passion for green tech, tech for good, and problem solving to help people and the world as much as possible through the power of software and technology.
+
 ## 🛠 Skills
-Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
+Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL, TypeScript
+
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/travis-peck-b8386837/)
@@ -23,11 +25,11 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL
 [![CSS](https://img.shields.io/badge/Certification-CSS-blue)](https://www.credly.com/badges/ee817d08-7768-4081-954b-c222eba64926/public_url)
 [![SQL](https://img.shields.io/badge/Certification-SQL-yellow)](https://www.credly.com/badges/bea9e926-cb84-4bba-ba04-ab4fe61651cb/public_url)
 ## More
-👩‍💻 I'm currently working on www.myguest.beauty
+👩‍💻 I'm currently working as an Associate Instructor at Coding Temple!
 
-🧠 I'm currently learning... Cybersecurity
+🧠 I'm currently learning... TypeScript and HTML Canvas
 
-⚡️ Fun fact... I'm also a professional hairstylist with over 15 years of experience
+⚡️ Fun fact... I'm also a professional hairstylist and educator with over 15 years of experience
 
 💬 Ask me about... How hairstyling relates to software engineering!
 
