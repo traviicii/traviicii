@@ -26,7 +26,7 @@ Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL, TypeScript
 [![SQL](https://img.shields.io/badge/Certification-SQL-yellow)](https://www.credly.com/badges/bea9e926-cb84-4bba-ba04-ab4fe61651cb/public_url)
 
 ## More
-👩‍💻 I'm currently working as an Associate Instructor at Coding Temple!
+👩‍💻 I'm currently working as an Instructor at Coding Temple!
 
 🧠 I'm currently learning HTML Canvas
 
