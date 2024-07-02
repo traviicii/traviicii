@@ -6,7 +6,7 @@
 I'm a full stack software developer with a passion for green tech, tech for good, and problem solving to help people and the world as much as possible through the power of software and technology.
 
 ## 🛠 Skills
-Python, JavaScript, Flask, React, Node, HTML, CSS, SQL, PostgreSQL, TypeScript
+Python, JavaScript, Flask, React, Redux, Node, HTML, CSS, SQL, PostgreSQL, MySQL, TypeScript
 
 ## 🔗 Links
 
