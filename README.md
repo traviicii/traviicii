@@ -28,7 +28,7 @@ Python, JavaScript, Flask, React, Redux, Node, HTML, CSS, SQL, PostgreSQL, MySQL
 ## More
 👩‍💻 I'm currently working as an Instructor at Coding Temple!
 
-🧠 I'm currently learning HTML Canvas
+🧠 I'm currently learning GSAP
 
 ⚡️ Fun fact: I'm also a professional hairstylist and educator with over 15 years of experience in the beauty industry.
 
